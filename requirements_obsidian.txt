@@ -1,0 +1,2 @@
+bibtexparser>=1.4.0
+python-slugify>=8.0.0
