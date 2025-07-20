@@ -159,7 +159,7 @@ This tool is based off a previous version I made for syncing Paperpile with Noti
 | Feature | Notion Version | Obsidian Version |
 |---------|---------------|------------------|
 | Storage | Notion Database | Markdown Files |
-| Search | Notion Search | Obsidian Search + Tags |
+| Search | Notion Search | Obsidian Search |
 | Linking | Database Relations | Wiki Links |
 | Notes | Notion Pages | Markdown Sections |
 | Customization | Limited | Full Control |
