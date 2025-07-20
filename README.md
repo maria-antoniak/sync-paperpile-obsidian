@@ -149,8 +149,6 @@ After running the script, check:
 - A `Papers/` folder exists in your Obsidian vault
 - A `Removed Papers/` folder exists inside of that folder
 - Markdown files are created for your papers
-- Tags appear correctly in Obsidian
-- Links in the metadata work properly
 
 <br>
 
